@@ -13,16 +13,27 @@ The broad outline of RustQuest's narrative should proceed in three stages from a
 ### Premise
 
 Long ago, in a world of magic...
+
 War raged among the wizards.
+
 Their enemy was the Dark Lord Malloc, a powerful wizard who corrupted memories.
+
 They fought Malloc in many battles, and at last defeated him...
+
 But Malloc had grown too powerful, and too full of memories, to die.
+
 The wizards hunted Malloc's spirit across the land, and found it within a newborn child.
+
 The wizards argued about what to do, for the power of Malloc was terrible indeed. 
+
 Some worried that Malloc might one day return; others worried that a child with Malloc's power would endanger everyone, even themselves.
+
 An archmage, who has been Malloc's friend once, brought the solution: they would seal the dark lord's power deep in the child's mind, and teach them the ways of safe magic.
+
 The child would be safe from Malloc's corruption, and one day would use that power for the good of all.
+
 This is their story, their...
+
 RUSTQUEST!
 
 ### The Cradle of Magic
@@ -31,7 +42,7 @@ This section concerns the early days of the protagonist learning magic, in the s
 
 This section ends when the archmage succumbs to the lingering curse of Malloc, and willingly enters a dreamless sleep in order to halt the progression of the curse. Before entering this sleep, they give the protagonist their quest: to develop their safe magic and enter Malloc's extradimensional vault of memories (external test server) to retrieve the archmage's memories using their true name (private key). 
 
-At this point, the protagonist also gains the archmage's spellbook, which contains the standard library and thus transitions out of the `#[no_std]` environment.
+At this point, the protagonist also gains the archmage's spellbook, which contains the standard library and thus transitions out of the `no_std` environment.
 
 ### Adventures
 
