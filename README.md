@@ -1,7 +1,9 @@
 # rust_quest
 An incremental, gamified introduction to Rust and computer science fundamentals.
 
-Check out the `guides` module for information on the project's vision and how you can contribute.
+Welcome! Whether you're coming from the Rust NYC Meetup or you found this repo by other channels, we're glad to have you here! Check out the `guides` module for information on the project's vision and how you can contribute.
+
+(Note: It turns out that another project named Rust Quest already exists, and also has the goal of teaching Rust to newcomers. I believe our ambitions with this project are sufficiently different that we will continue. We'll have to think about changing the name at some point, though!)
 
 Copyright (C) 2025 Nicolas Posner
 
