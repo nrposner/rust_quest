@@ -36,15 +36,15 @@ The role of project administrator carries the following responsibilities:
 
 ### Joining the admin team
 
-In order to join the admin team, apply via [ a special thread ] with the following information:
+In order to join the admin team, post on the admin_applications discussion thread with the following information:
  - Your name
- - Your GitHub username
+ - Your preferred method of contact for ongoing conversations (email, Discord, etc)
  - A brief bio explaining your experience with Rust and what you hope to bring to the project
  - (Optional) A blog or other place where you write on any subject
 
 An admin application shall remain open for a period not less than three days, during which the existing admin team may ask reasonable questions of the applicant. At the end of this period, any member of the admin team may invoke a vote and cast their vote in favor, against, or abstaining from the decision to admit the applicant. Any admin who does not cast a vote within a period of three days from the invocation is assumed to abstain. A two-thirds majority of the existing admin team must vote in favor in order to admit a new admin.
 
-Rejection from an admin role should not be understood as a statement on the applicant's past contributions to the project. The admin role is a position of high trust through which the  
+Rejection from an admin role should not be understood as a statement on the applicant's past contributions to the project. The admin role is a position of high trust through which the integrity and direction of the project is maintained.
 
 The project founder, Nicolas Posner, does not hold special privileges to bypass the aforementioned procedures. His only special power is to 'take his ball and go home' and discontinue the present repository, at which point, in accordance with the spirit and letter of the GNU v3.0 license under which RustQuest was first created, any fork of the project may continue the project without any obligations to the founder whatsoever.
 
